@@ -117,17 +117,12 @@ Execute the program
 
 ## Server Output:
 
-![out 1](https://user-images.githubusercontent.com/120353431/235048814-d6a84622-d5d7-4ff5-a628-aa20b272545e.png)
+![image](https://github.com/Mithramukund/timetable/assets/121608770/1eae7500-ce0d-4b6d-b4a6-f893d5333821)
+
 
 
 ## Client Output:
-
-![output3](https://user-images.githubusercontent.com/120353431/235049570-c93a8b31-05f6-45a3-8f01-182332b54ead.png)
-
-
-## HTML Checker:
-
-![out 3](https://user-images.githubusercontent.com/120353431/235049000-66b04516-d611-4156-89ed-1327f5c13762.png)
+![image](https://github.com/Mithramukund/timetable/assets/121608770/9b36da32-5f3c-40d9-9ad0-59af8ecbdec3)
 
 
 # Result:
